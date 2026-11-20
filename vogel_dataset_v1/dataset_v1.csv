@@ -1,0 +1,126 @@
+xc_id,label_id,klasse,bestandspad,sample_rate,duur_sec,kwaliteit,type_geluid,spec_pad
+1194735,0,Turdus merula,vogel_dataset_v1/clips_wav/Turdus_merula/XC1194735.wav,22050,4.0,A,alarm call,vogel_dataset_v1/spectrograms_npy/Turdus_merula/XC1194735.npy
+1194734,0,Turdus merula,vogel_dataset_v1/clips_wav/Turdus_merula/XC1194734.wav,22050,4.0,A,alarm call,vogel_dataset_v1/spectrograms_npy/Turdus_merula/XC1194734.npy
+1194733,0,Turdus merula,vogel_dataset_v1/clips_wav/Turdus_merula/XC1194733.wav,22050,4.0,A,alarm call,vogel_dataset_v1/spectrograms_npy/Turdus_merula/XC1194733.npy
+1194493,0,Turdus merula,vogel_dataset_v1/clips_wav/Turdus_merula/XC1194493.wav,22050,4.0,A,dawn song,vogel_dataset_v1/spectrograms_npy/Turdus_merula/XC1194493.npy
+1194492,0,Turdus merula,vogel_dataset_v1/clips_wav/Turdus_merula/XC1194492.wav,22050,4.0,A,dawn song,vogel_dataset_v1/spectrograms_npy/Turdus_merula/XC1194492.npy
+1194484,0,Turdus merula,vogel_dataset_v1/clips_wav/Turdus_merula/XC1194484.wav,22050,4.0,A,dawn song,vogel_dataset_v1/spectrograms_npy/Turdus_merula/XC1194484.npy
+1194481,0,Turdus merula,vogel_dataset_v1/clips_wav/Turdus_merula/XC1194481.wav,22050,4.0,A,dawn song,vogel_dataset_v1/spectrograms_npy/Turdus_merula/XC1194481.npy
+1194468,0,Turdus merula,vogel_dataset_v1/clips_wav/Turdus_merula/XC1194468.wav,22050,4.0,A,dawn song,vogel_dataset_v1/spectrograms_npy/Turdus_merula/XC1194468.npy
+1194463,0,Turdus merula,vogel_dataset_v1/clips_wav/Turdus_merula/XC1194463.wav,22050,4.0,A,alarm call,vogel_dataset_v1/spectrograms_npy/Turdus_merula/XC1194463.npy
+1194451,0,Turdus merula,vogel_dataset_v1/clips_wav/Turdus_merula/XC1194451.wav,22050,4.0,A,dawn song,vogel_dataset_v1/spectrograms_npy/Turdus_merula/XC1194451.npy
+1194438,0,Turdus merula,vogel_dataset_v1/clips_wav/Turdus_merula/XC1194438.wav,22050,4.0,A,dawn song,vogel_dataset_v1/spectrograms_npy/Turdus_merula/XC1194438.npy
+1194420,0,Turdus merula,vogel_dataset_v1/clips_wav/Turdus_merula/XC1194420.wav,22050,4.0,A,alarm call,vogel_dataset_v1/spectrograms_npy/Turdus_merula/XC1194420.npy
+1194406,0,Turdus merula,vogel_dataset_v1/clips_wav/Turdus_merula/XC1194406.wav,22050,4.0,A,dawn song,vogel_dataset_v1/spectrograms_npy/Turdus_merula/XC1194406.npy
+1194404,0,Turdus merula,vogel_dataset_v1/clips_wav/Turdus_merula/XC1194404.wav,22050,4.0,A,nocturnal flight call,vogel_dataset_v1/spectrograms_npy/Turdus_merula/XC1194404.npy
+1194401,0,Turdus merula,vogel_dataset_v1/clips_wav/Turdus_merula/XC1194401.wav,22050,4.0,A,dawn song,vogel_dataset_v1/spectrograms_npy/Turdus_merula/XC1194401.npy
+1194396,0,Turdus merula,vogel_dataset_v1/clips_wav/Turdus_merula/XC1194396.wav,22050,4.0,A,dawn song,vogel_dataset_v1/spectrograms_npy/Turdus_merula/XC1194396.npy
+1194392,0,Turdus merula,vogel_dataset_v1/clips_wav/Turdus_merula/XC1194392.wav,22050,4.0,A,dawn song,vogel_dataset_v1/spectrograms_npy/Turdus_merula/XC1194392.npy
+1194346,0,Turdus merula,vogel_dataset_v1/clips_wav/Turdus_merula/XC1194346.wav,22050,4.0,A,nocturnal flight call,vogel_dataset_v1/spectrograms_npy/Turdus_merula/XC1194346.npy
+1193767,0,Turdus merula,vogel_dataset_v1/clips_wav/Turdus_merula/XC1193767.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Turdus_merula/XC1193767.npy
+1193368,0,Turdus merula,vogel_dataset_v1/clips_wav/Turdus_merula/XC1193368.wav,22050,4.0,A,"alarm call, call",vogel_dataset_v1/spectrograms_npy/Turdus_merula/XC1193368.npy
+1192836,0,Turdus merula,vogel_dataset_v1/clips_wav/Turdus_merula/XC1192836.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Turdus_merula/XC1192836.npy
+1191997,0,Turdus merula,vogel_dataset_v1/clips_wav/Turdus_merula/XC1191997.wav,22050,4.0,A,nocturnal flight call,vogel_dataset_v1/spectrograms_npy/Turdus_merula/XC1191997.npy
+1191990,0,Turdus merula,vogel_dataset_v1/clips_wav/Turdus_merula/XC1191990.wav,22050,4.0,A,nocturnal flight call,vogel_dataset_v1/spectrograms_npy/Turdus_merula/XC1191990.npy
+1191986,0,Turdus merula,vogel_dataset_v1/clips_wav/Turdus_merula/XC1191986.wav,22050,4.0,A,nocturnal flight call,vogel_dataset_v1/spectrograms_npy/Turdus_merula/XC1191986.npy
+1190600,0,Turdus merula,vogel_dataset_v1/clips_wav/Turdus_merula/XC1190600.wav,22050,4.0,A,dawn song,vogel_dataset_v1/spectrograms_npy/Turdus_merula/XC1190600.npy
+1195214,1,Erithacus rubecula,vogel_dataset_v1/clips_wav/Erithacus_rubecula/XC1195214.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Erithacus_rubecula/XC1195214.npy
+1194890,1,Erithacus rubecula,vogel_dataset_v1/clips_wav/Erithacus_rubecula/XC1194890.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Erithacus_rubecula/XC1194890.npy
+1194888,1,Erithacus rubecula,vogel_dataset_v1/clips_wav/Erithacus_rubecula/XC1194888.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Erithacus_rubecula/XC1194888.npy
+1194152,1,Erithacus rubecula,vogel_dataset_v1/clips_wav/Erithacus_rubecula/XC1194152.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Erithacus_rubecula/XC1194152.npy
+1194141,1,Erithacus rubecula,vogel_dataset_v1/clips_wav/Erithacus_rubecula/XC1194141.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Erithacus_rubecula/XC1194141.npy
+1194076,1,Erithacus rubecula,vogel_dataset_v1/clips_wav/Erithacus_rubecula/XC1194076.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Erithacus_rubecula/XC1194076.npy
+1193987,1,Erithacus rubecula,vogel_dataset_v1/clips_wav/Erithacus_rubecula/XC1193987.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Erithacus_rubecula/XC1193987.npy
+1193577,1,Erithacus rubecula,vogel_dataset_v1/clips_wav/Erithacus_rubecula/XC1193577.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Erithacus_rubecula/XC1193577.npy
+1192854,1,Erithacus rubecula,vogel_dataset_v1/clips_wav/Erithacus_rubecula/XC1192854.wav,22050,4.0,A,alarm call,vogel_dataset_v1/spectrograms_npy/Erithacus_rubecula/XC1192854.npy
+1192442,1,Erithacus rubecula,vogel_dataset_v1/clips_wav/Erithacus_rubecula/XC1192442.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Erithacus_rubecula/XC1192442.npy
+1191139,1,Erithacus rubecula,vogel_dataset_v1/clips_wav/Erithacus_rubecula/XC1191139.wav,22050,4.0,A,"alarm call, song",vogel_dataset_v1/spectrograms_npy/Erithacus_rubecula/XC1191139.npy
+1191084,1,Erithacus rubecula,vogel_dataset_v1/clips_wav/Erithacus_rubecula/XC1191084.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Erithacus_rubecula/XC1191084.npy
+1191083,1,Erithacus rubecula,vogel_dataset_v1/clips_wav/Erithacus_rubecula/XC1191083.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Erithacus_rubecula/XC1191083.npy
+1191082,1,Erithacus rubecula,vogel_dataset_v1/clips_wav/Erithacus_rubecula/XC1191082.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Erithacus_rubecula/XC1191082.npy
+1191081,1,Erithacus rubecula,vogel_dataset_v1/clips_wav/Erithacus_rubecula/XC1191081.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Erithacus_rubecula/XC1191081.npy
+1191080,1,Erithacus rubecula,vogel_dataset_v1/clips_wav/Erithacus_rubecula/XC1191080.wav,22050,4.0,A,"call, song",vogel_dataset_v1/spectrograms_npy/Erithacus_rubecula/XC1191080.npy
+1191078,1,Erithacus rubecula,vogel_dataset_v1/clips_wav/Erithacus_rubecula/XC1191078.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Erithacus_rubecula/XC1191078.npy
+1191077,1,Erithacus rubecula,vogel_dataset_v1/clips_wav/Erithacus_rubecula/XC1191077.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Erithacus_rubecula/XC1191077.npy
+1191076,1,Erithacus rubecula,vogel_dataset_v1/clips_wav/Erithacus_rubecula/XC1191076.wav,22050,4.0,A,"call, song",vogel_dataset_v1/spectrograms_npy/Erithacus_rubecula/XC1191076.npy
+1190442,1,Erithacus rubecula,vogel_dataset_v1/clips_wav/Erithacus_rubecula/XC1190442.wav,22050,4.0,A,nocturnal flight call,vogel_dataset_v1/spectrograms_npy/Erithacus_rubecula/XC1190442.npy
+1190377,1,Erithacus rubecula,vogel_dataset_v1/clips_wav/Erithacus_rubecula/XC1190377.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Erithacus_rubecula/XC1190377.npy
+1190353,1,Erithacus rubecula,vogel_dataset_v1/clips_wav/Erithacus_rubecula/XC1190353.wav,22050,4.0,A,nocturnal flight call,vogel_dataset_v1/spectrograms_npy/Erithacus_rubecula/XC1190353.npy
+1190039,1,Erithacus rubecula,vogel_dataset_v1/clips_wav/Erithacus_rubecula/XC1190039.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Erithacus_rubecula/XC1190039.npy
+1189985,1,Erithacus rubecula,vogel_dataset_v1/clips_wav/Erithacus_rubecula/XC1189985.wav,22050,4.0,A,"call, flight call, nocturnal flight call",vogel_dataset_v1/spectrograms_npy/Erithacus_rubecula/XC1189985.npy
+1189418,1,Erithacus rubecula,vogel_dataset_v1/clips_wav/Erithacus_rubecula/XC1189418.wav,22050,4.0,A,nocturnal flight call,vogel_dataset_v1/spectrograms_npy/Erithacus_rubecula/XC1189418.npy
+1194831,2,Parus major,vogel_dataset_v1/clips_wav/Parus_major/XC1194831.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Parus_major/XC1194831.npy
+1193866,2,Parus major,vogel_dataset_v1/clips_wav/Parus_major/XC1193866.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Parus_major/XC1193866.npy
+1193403,2,Parus major,vogel_dataset_v1/clips_wav/Parus_major/XC1193403.wav,22050,4.0,A,"call, flight call",vogel_dataset_v1/spectrograms_npy/Parus_major/XC1193403.npy
+1186773,2,Parus major,vogel_dataset_v1/clips_wav/Parus_major/XC1186773.wav,22050,4.0,A,"call, song",vogel_dataset_v1/spectrograms_npy/Parus_major/XC1186773.npy
+1185666,2,Parus major,vogel_dataset_v1/clips_wav/Parus_major/XC1185666.wav,22050,4.0,A,"call, subsong",vogel_dataset_v1/spectrograms_npy/Parus_major/XC1185666.npy
+1185198,2,Parus major,vogel_dataset_v1/clips_wav/Parus_major/XC1185198.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Parus_major/XC1185198.npy
+1184685,2,Parus major,vogel_dataset_v1/clips_wav/Parus_major/XC1184685.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Parus_major/XC1184685.npy
+1182374,2,Parus major,vogel_dataset_v1/clips_wav/Parus_major/XC1182374.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Parus_major/XC1182374.npy
+1181778,2,Parus major,vogel_dataset_v1/clips_wav/Parus_major/XC1181778.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Parus_major/XC1181778.npy
+1169119,2,Parus major,vogel_dataset_v1/clips_wav/Parus_major/XC1169119.wav,22050,4.0,A,"call, song",vogel_dataset_v1/spectrograms_npy/Parus_major/XC1169119.npy
+1167229,2,Parus major,vogel_dataset_v1/clips_wav/Parus_major/XC1167229.wav,22050,4.0,A,"call, song, melodious call",vogel_dataset_v1/spectrograms_npy/Parus_major/XC1167229.npy
+1167218,2,Parus major,vogel_dataset_v1/clips_wav/Parus_major/XC1167218.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Parus_major/XC1167218.npy
+1167213,2,Parus major,vogel_dataset_v1/clips_wav/Parus_major/XC1167213.wav,22050,4.0,A,"call, song, melodious call",vogel_dataset_v1/spectrograms_npy/Parus_major/XC1167213.npy
+1167212,2,Parus major,vogel_dataset_v1/clips_wav/Parus_major/XC1167212.wav,22050,4.0,A,"call, song, melodious call",vogel_dataset_v1/spectrograms_npy/Parus_major/XC1167212.npy
+1167209,2,Parus major,vogel_dataset_v1/clips_wav/Parus_major/XC1167209.wav,22050,4.0,A,"call, chaffinch-like call",vogel_dataset_v1/spectrograms_npy/Parus_major/XC1167209.npy
+1167063,2,Parus major,vogel_dataset_v1/clips_wav/Parus_major/XC1167063.wav,22050,4.0,A,"begging call, call",vogel_dataset_v1/spectrograms_npy/Parus_major/XC1167063.npy
+1167062,2,Parus major,vogel_dataset_v1/clips_wav/Parus_major/XC1167062.wav,22050,4.0,A,"begging call, call",vogel_dataset_v1/spectrograms_npy/Parus_major/XC1167062.npy
+1163562,2,Parus major,vogel_dataset_v1/clips_wav/Parus_major/XC1163562.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Parus_major/XC1163562.npy
+1155812,2,Parus major,vogel_dataset_v1/clips_wav/Parus_major/XC1155812.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Parus_major/XC1155812.npy
+1152620,2,Parus major,vogel_dataset_v1/clips_wav/Parus_major/XC1152620.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Parus_major/XC1152620.npy
+1152300,2,Parus major,vogel_dataset_v1/clips_wav/Parus_major/XC1152300.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Parus_major/XC1152300.npy
+1152246,2,Parus major,vogel_dataset_v1/clips_wav/Parus_major/XC1152246.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Parus_major/XC1152246.npy
+1151595,2,Parus major,vogel_dataset_v1/clips_wav/Parus_major/XC1151595.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Parus_major/XC1151595.npy
+1141953,2,Parus major,vogel_dataset_v1/clips_wav/Parus_major/XC1141953.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Parus_major/XC1141953.npy
+1141773,2,Parus major,vogel_dataset_v1/clips_wav/Parus_major/XC1141773.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Parus_major/XC1141773.npy
+1195213,3,Fringilla coelebs,vogel_dataset_v1/clips_wav/Fringilla_coelebs/XC1195213.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Fringilla_coelebs/XC1195213.npy
+1195212,3,Fringilla coelebs,vogel_dataset_v1/clips_wav/Fringilla_coelebs/XC1195212.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Fringilla_coelebs/XC1195212.npy
+1194085,3,Fringilla coelebs,vogel_dataset_v1/clips_wav/Fringilla_coelebs/XC1194085.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Fringilla_coelebs/XC1194085.npy
+1193898,3,Fringilla coelebs,vogel_dataset_v1/clips_wav/Fringilla_coelebs/XC1193898.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Fringilla_coelebs/XC1193898.npy
+1193263,3,Fringilla coelebs,vogel_dataset_v1/clips_wav/Fringilla_coelebs/XC1193263.wav,22050,4.0,A,"call, ""zit"" and ""tew"" calls",vogel_dataset_v1/spectrograms_npy/Fringilla_coelebs/XC1193263.npy
+1193077,3,Fringilla coelebs,vogel_dataset_v1/clips_wav/Fringilla_coelebs/XC1193077.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Fringilla_coelebs/XC1193077.npy
+1190050,3,Fringilla coelebs,vogel_dataset_v1/clips_wav/Fringilla_coelebs/XC1190050.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Fringilla_coelebs/XC1190050.npy
+1188869,3,Fringilla coelebs,vogel_dataset_v1/clips_wav/Fringilla_coelebs/XC1188869.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Fringilla_coelebs/XC1188869.npy
+1188867,3,Fringilla coelebs,vogel_dataset_v1/clips_wav/Fringilla_coelebs/XC1188867.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Fringilla_coelebs/XC1188867.npy
+1186298,3,Fringilla coelebs,vogel_dataset_v1/clips_wav/Fringilla_coelebs/XC1186298.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Fringilla_coelebs/XC1186298.npy
+1181773,3,Fringilla coelebs,vogel_dataset_v1/clips_wav/Fringilla_coelebs/XC1181773.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Fringilla_coelebs/XC1181773.npy
+1179616,3,Fringilla coelebs,vogel_dataset_v1/clips_wav/Fringilla_coelebs/XC1179616.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Fringilla_coelebs/XC1179616.npy
+1167219,3,Fringilla coelebs,vogel_dataset_v1/clips_wav/Fringilla_coelebs/XC1167219.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Fringilla_coelebs/XC1167219.npy
+1167182,3,Fringilla coelebs,vogel_dataset_v1/clips_wav/Fringilla_coelebs/XC1167182.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Fringilla_coelebs/XC1167182.npy
+1167181,3,Fringilla coelebs,vogel_dataset_v1/clips_wav/Fringilla_coelebs/XC1167181.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Fringilla_coelebs/XC1167181.npy
+1167065,3,Fringilla coelebs,vogel_dataset_v1/clips_wav/Fringilla_coelebs/XC1167065.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Fringilla_coelebs/XC1167065.npy
+1163567,3,Fringilla coelebs,vogel_dataset_v1/clips_wav/Fringilla_coelebs/XC1163567.wav,22050,4.0,A,"call, ""rain call""",vogel_dataset_v1/spectrograms_npy/Fringilla_coelebs/XC1163567.npy
+1156200,3,Fringilla coelebs,vogel_dataset_v1/clips_wav/Fringilla_coelebs/XC1156200.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Fringilla_coelebs/XC1156200.npy
+1156198,3,Fringilla coelebs,vogel_dataset_v1/clips_wav/Fringilla_coelebs/XC1156198.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Fringilla_coelebs/XC1156198.npy
+1156197,3,Fringilla coelebs,vogel_dataset_v1/clips_wav/Fringilla_coelebs/XC1156197.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Fringilla_coelebs/XC1156197.npy
+1152733,3,Fringilla coelebs,vogel_dataset_v1/clips_wav/Fringilla_coelebs/XC1152733.wav,22050,4.0,A,"call, song",vogel_dataset_v1/spectrograms_npy/Fringilla_coelebs/XC1152733.npy
+1152618,3,Fringilla coelebs,vogel_dataset_v1/clips_wav/Fringilla_coelebs/XC1152618.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Fringilla_coelebs/XC1152618.npy
+1152309,3,Fringilla coelebs,vogel_dataset_v1/clips_wav/Fringilla_coelebs/XC1152309.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Fringilla_coelebs/XC1152309.npy
+1152306,3,Fringilla coelebs,vogel_dataset_v1/clips_wav/Fringilla_coelebs/XC1152306.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Fringilla_coelebs/XC1152306.npy
+1152297,3,Fringilla coelebs,vogel_dataset_v1/clips_wav/Fringilla_coelebs/XC1152297.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Fringilla_coelebs/XC1152297.npy
+1175751,4,Passer domesticus,vogel_dataset_v1/clips_wav/Passer_domesticus/XC1175751.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Passer_domesticus/XC1175751.npy
+1167340,4,Passer domesticus,vogel_dataset_v1/clips_wav/Passer_domesticus/XC1167340.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Passer_domesticus/XC1167340.npy
+1157657,4,Passer domesticus,vogel_dataset_v1/clips_wav/Passer_domesticus/XC1157657.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Passer_domesticus/XC1157657.npy
+1156447,4,Passer domesticus,vogel_dataset_v1/clips_wav/Passer_domesticus/XC1156447.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Passer_domesticus/XC1156447.npy
+1156445,4,Passer domesticus,vogel_dataset_v1/clips_wav/Passer_domesticus/XC1156445.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Passer_domesticus/XC1156445.npy
+1152785,4,Passer domesticus,vogel_dataset_v1/clips_wav/Passer_domesticus/XC1152785.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Passer_domesticus/XC1152785.npy
+1152146,4,Passer domesticus,vogel_dataset_v1/clips_wav/Passer_domesticus/XC1152146.wav,22050,4.0,A,"call, song",vogel_dataset_v1/spectrograms_npy/Passer_domesticus/XC1152146.npy
+1152144,4,Passer domesticus,vogel_dataset_v1/clips_wav/Passer_domesticus/XC1152144.wav,22050,4.0,A,"call, song",vogel_dataset_v1/spectrograms_npy/Passer_domesticus/XC1152144.npy
+1151383,4,Passer domesticus,vogel_dataset_v1/clips_wav/Passer_domesticus/XC1151383.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Passer_domesticus/XC1151383.npy
+1151381,4,Passer domesticus,vogel_dataset_v1/clips_wav/Passer_domesticus/XC1151381.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Passer_domesticus/XC1151381.npy
+1151083,4,Passer domesticus,vogel_dataset_v1/clips_wav/Passer_domesticus/XC1151083.wav,22050,4.0,A,"call, song, Excited male calls",vogel_dataset_v1/spectrograms_npy/Passer_domesticus/XC1151083.npy
+1145371,4,Passer domesticus,vogel_dataset_v1/clips_wav/Passer_domesticus/XC1145371.wav,22050,4.0,A,"call, song",vogel_dataset_v1/spectrograms_npy/Passer_domesticus/XC1145371.npy
+1145322,4,Passer domesticus,vogel_dataset_v1/clips_wav/Passer_domesticus/XC1145322.wav,22050,4.0,A,"call, song",vogel_dataset_v1/spectrograms_npy/Passer_domesticus/XC1145322.npy
+1145202,4,Passer domesticus,vogel_dataset_v1/clips_wav/Passer_domesticus/XC1145202.wav,22050,4.0,A,"call, song",vogel_dataset_v1/spectrograms_npy/Passer_domesticus/XC1145202.npy
+1138674,4,Passer domesticus,vogel_dataset_v1/clips_wav/Passer_domesticus/XC1138674.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Passer_domesticus/XC1138674.npy
+1136480,4,Passer domesticus,vogel_dataset_v1/clips_wav/Passer_domesticus/XC1136480.wav,22050,4.0,A,"call, different calls",vogel_dataset_v1/spectrograms_npy/Passer_domesticus/XC1136480.npy
+1136052,4,Passer domesticus,vogel_dataset_v1/clips_wav/Passer_domesticus/XC1136052.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Passer_domesticus/XC1136052.npy
+1104607,4,Passer domesticus,vogel_dataset_v1/clips_wav/Passer_domesticus/XC1104607.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Passer_domesticus/XC1104607.npy
+1103781,4,Passer domesticus,vogel_dataset_v1/clips_wav/Passer_domesticus/XC1103781.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Passer_domesticus/XC1103781.npy
+1096343,4,Passer domesticus,vogel_dataset_v1/clips_wav/Passer_domesticus/XC1096343.wav,22050,4.0,A,"call, song",vogel_dataset_v1/spectrograms_npy/Passer_domesticus/XC1096343.npy
+1092252,4,Passer domesticus,vogel_dataset_v1/clips_wav/Passer_domesticus/XC1092252.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Passer_domesticus/XC1092252.npy
+1092251,4,Passer domesticus,vogel_dataset_v1/clips_wav/Passer_domesticus/XC1092251.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Passer_domesticus/XC1092251.npy
+1092250,4,Passer domesticus,vogel_dataset_v1/clips_wav/Passer_domesticus/XC1092250.wav,22050,4.0,A,call,vogel_dataset_v1/spectrograms_npy/Passer_domesticus/XC1092250.npy
+1089317,4,Passer domesticus,vogel_dataset_v1/clips_wav/Passer_domesticus/XC1089317.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Passer_domesticus/XC1089317.npy
+1088280,4,Passer domesticus,vogel_dataset_v1/clips_wav/Passer_domesticus/XC1088280.wav,22050,4.0,A,song,vogel_dataset_v1/spectrograms_npy/Passer_domesticus/XC1088280.npy
