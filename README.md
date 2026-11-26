@@ -2,7 +2,7 @@
 
 Dit is een Fontys schoolproject met AI en het herkennen van Nederlandstalige vogels.
 
-![banner](https://github.com/RudyFontys/dutch-bird-sounds/banner.png)
+![banner](https://github.com/RudyFontys/dutch-bird-sounds/blob/main/banner.png)
 
 ## Huidige status:
 
