@@ -1,0 +1,54 @@
+{
+  "seed": 42,
+  "epochs": 30,
+  "batch_size": 16,
+  "learning_rate": 0.001,
+  "apparaat": "cpu",
+  "model": "VogelCNN: Conv8, Conv16, AdaptiveAvgPool4x4, Linear5",
+  "optimizer": "Adam",
+  "loss": "CrossEntropyLoss",
+  "modelselectie": "laagste validatieloss",
+  "augmentatie": false,
+  "verdeling": "StratifiedGroupKFold; groep 0=test, 1=validatie, 2-4=train",
+  "groepssleutel": "SHA256 van float32-spectrogram",
+  "aantallen": {
+    "train": 75,
+    "test": 25,
+    "validatie": 25
+  },
+  "unieke_spectrogrammen": 124,
+  "invoervorm": [
+    1,
+    128,
+    173
+  ],
+  "sample_rate": 22050,
+  "clipduur_sec": 4,
+  "n_fft": 2048,
+  "hop_length": 512,
+  "n_mels": 128,
+  "normalisatie": "log-Mel per fragment naar [0, 1], reeds uitgevoerd door convert.py",
+  "labelnamen": [
+    "Merel",
+    "Roodborst",
+    "Koolmees",
+    "Vink",
+    "Huismus"
+  ],
+  "wetenschappelijke_namen": [
+    "Turdus merula",
+    "Erithacus rubecula",
+    "Parus major",
+    "Fringilla coelebs",
+    "Passer domesticus"
+  ],
+  "csv_sha256": "09d5b91441423b7f1403916cfcaa4f71b90058576147edab20b1b63d645c6876",
+  "versies": {
+    "python": "3.12.3",
+    "numpy": "2.5.2",
+    "pandas": "3.0.5",
+    "torch": "2.14.0+cu130",
+    "scikit-learn": "1.9.0",
+    "matplotlib": "3.11.1"
+  }
+}
