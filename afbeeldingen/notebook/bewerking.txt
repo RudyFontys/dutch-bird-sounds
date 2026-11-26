@@ -1,0 +1,13 @@
+Vogelillustraties voor punt 4 van vogelgeluiden_baseline_v1.ipynb
+
+Alle vijf PNG-bestanden in deze map zijn 400 x 340 pixels. De oorspronkelijke
+verhoudingen zijn behouden; overgebleven ruimte is wit. De bronafbeeldingen in
+de bovenliggende map zijn ongewijzigd bewaard.
+
+De merel is eerst opgeschoond met de ingebouwde imagegen-tool.
+De gebruikte bewerkingsprompt:
+
+Use case: precise-object-edit. Edit target: the supplied merel.png, an educational cutout of a male Eurasian blackbird on white. Make only this very small repair: remove the dark green and pale green horizontal contamination at the very bottom edge and fill that narrow bottom strip with the same clean pure white background. Preserve the original bird exactly, including pose, yellow beak, yellow eye ring, feathers, tail, legs and feet. Preserve composition, white background, and original 383 by 338 framing and dimensions if supported. Do not redraw, restyle, add text, add shadows, crop the bird, or change other pixels. The output is for the same Dutch bird identification notebook. Preserve existing alpha behavior.
+
+De uitvoer van imagegen is daarna, net als de vier andere vogels, proportioneel
+geschaald en gecentreerd op een wit vlak van 400 x 340 pixels.
